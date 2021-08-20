@@ -1,0 +1,3 @@
+Advantage: Compared to previous models, CTC works on character level decoding
+
+Disadvantage: It assumes the probability of character at any time step is 		      independent of those in previous steps.
